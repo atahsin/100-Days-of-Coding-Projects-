@@ -8,7 +8,7 @@ famous_company3 = input("Famous Company: ")
 famous_company4 = input("Famous Company: ")
 noun1 = input("Toy: ")
 famous_person3 = input("Famous Person: ")
-vehicle1 = input("Vehcile: "
+vehicle1 = input("Vehcile: ")
 verb2 = input("Verb: ")
 verb3 = input("Verb: ")
 
