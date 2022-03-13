@@ -1,0 +1,18 @@
+HTML
+opening tag -> <h1>
+closing tag -> </h1>
+h1 -> main heading 
+h2 -> level 2 heading 
+h4,h5,h6
+paragraph -> <p> + </p>
+commenting -> <!-- + -->
+HTML5 -> main, header, footer, nav, video, article, section 
+to add image -> <img src="https://www.freecatphotoapp.com/your-image.jpg">
+all images must have an alt attribute -> alt="A business cat wearing a necktie.">
+which is placed after the img 
+a -> anchor, to link to content outside of your web page 
+href -> placed after the anchor 
+anchor can also create an internal link
+<a href="#contacts-header">Contacts</a>
+...
+<h2 id="contacts-header">Contacts</h2>
