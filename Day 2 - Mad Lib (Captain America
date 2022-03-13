@@ -1,0 +1,30 @@
+famous_company = input("Famous Company: ")
+famous_person1 = input("Famous Person: ")
+verb1 = input("Verb: ")
+famous_company1 = input("Famous Company: ")
+famous_person2 = input("Famous Person: ")
+famous_company2 = input("Famous Company: ")
+famous_company3 = input("Famous Company: ")
+famous_company4 = input("Famous Company: ")
+noun1 = input("Toy: ")
+famous_person3 = input("Famous Person: ")
+vehicle1 = input("Vehcile: "
+verb2 = input("Verb: ")
+verb3 = input("Verb: ")
+
+madlib = f"Attention all {famous_company} agents, this is {famous_person1}. \
+You've heard a lot about me over the last few days. \
+Some of you were even ordered to {verb1} me down. \
+But I think it's time to know the truth. {famous_company} is not what we thought it was. \
+It's been taken over by {famous_company1}. {famous_person2} is their leader. \
+The {famous_company3} and {famous_company4} crew are {famous_company1} as well.\
+I don't know how many more, but I know they're in the building.\
+They could be standing right next to you. \
+They almost have what they want: {noun1}. \
+They shot {famous_person3}, and it won't end there. \
+If you launch the {vehicle1} today {famous_company1} will be able to {verb2} anyone that stands in their way... unless we {verb3} them. \
+And I know I'm asking a lot. The price of freedom is high, it always has been.\
+And it's a price I'm willing to pay. And if I'm the only one, then so be it. \
+But I'm willing to bet I'm not."
+
+print(madlib)
